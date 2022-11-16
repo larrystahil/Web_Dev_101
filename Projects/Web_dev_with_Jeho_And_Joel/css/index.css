@@ -1,0 +1,43 @@
+html {
+    background-color: hsl(30, 38%, 92%);
+}
+
+.details {
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.title {
+    margin-left: 20px;
+}
+
+.subtitle {
+    margin-left: 20px;
+}
+
+.price {
+    margin-left: 20px;
+}
+
+.set {
+    /*background-color: blue;*/
+    margin: auto;
+    margin-top: 200px;
+    max-width: 250px;
+    text-align: left;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: hsl(0, 0%, 100%);
+}
+
+img {
+    width: 250px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.cart {
+    padding-left: 80px;
+}
