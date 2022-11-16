@@ -1,0 +1,29 @@
+/* Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+:root{
+    --cl-red: hsl(0, 100%, 74%);
+    --cl-green: hsl(154, 59%, 51%);
+    --cl-blue: hsl(248, 32%, 49%);
+    --d-blue: hsl(249, 10%, 26%);
+    --g-blur: hsl(246, 25%, 77%);
+    --desk-image: '../images/bg-intro-mobile.png';
+    --mobile-image: '../images/bg-intro-mobile.png';
+    
+}
+
+body {
+    font-family: Poppins, san-serof;
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-image: url(../images/bg-intro-mobile.png);    /*var(--mobile-image), var(--cl-red);*/
+    background-color: hsl(0, 100%, 74%);
+    background-size: cover ;
+}
+/*caniuse.com*/
+
+h1 .title {
+    color: hsl(246, 25%, 77%) ;
+}

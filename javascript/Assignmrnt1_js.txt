@@ -1,0 +1,11 @@
+1. create two variables
+ 
+2. name first one password
+ 
+3. name second confirm password
+ 
+4.  ask user for password and store in first variable
+ 
+5. ask user to confirm password ans store it in second variable
+ 
+6. check the two variables. if they are the same, console log welcome and if they are not the same, console log wrong password please try again 
