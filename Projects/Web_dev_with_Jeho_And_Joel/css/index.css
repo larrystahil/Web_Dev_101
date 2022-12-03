@@ -22,8 +22,9 @@ html {
 .set {
     /*background-color: blue;*/
     margin: auto;
-    margin-top: 80px;
+    margin-top: 250px;
     max-width: 250px;
+    
     text-align: left;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
@@ -38,21 +39,18 @@ img {
     border-top-left-radius: 20px;
 }
 
-.cart {
-    padding-left: 80px;
-}
-
 .cart{
+    background-color: hsl(158, 36%, 37%);
+    border-radius: 20px;
     font-size: 14px;
-    margin: 0;
+    text-align: center;
+    margin: 20px;
+    padding: 2px;
 }
 
-.button {
-    border: 2px solid red;
-    max-width: 125px;
-    height: 30px;
+button {
     background-color: hsl(158, 36%, 37%);
-    display: inline-flex;
     border-radius: 10px;
-    margin-left: 64px;
+    margin: 0 0 30px 40px;
+    padding: 10px 70px 10px 70px;
 }
