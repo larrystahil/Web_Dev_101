@@ -1,0 +1,69 @@
+html {
+    background-color: hsl(30, 38%, 92%);
+}
+
+.details {
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.title {
+    margin-left: 20px;
+}
+
+.subtitle {
+    margin-left: 20px;
+}
+
+.price {
+    margin-left: 20px;
+}
+
+.set {
+    /*background-color: blue;*/
+    margin: auto;
+    margin-top: 250px;
+    max-width: 250px;
+    
+    text-align: left;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: hsl(0, 0%, 100%);
+}
+
+img {
+    width: 250px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+<<<<<<< Updated upstream
+.cart{
+    background-color: hsl(158, 36%, 37%);
+    border-radius: 20px;
+    font-size: 14px;
+    text-align: center;
+    margin: 20px;
+    padding: 2px;
+}
+
+button {
+=======
+
+.button {
+    //border: 2px solid red;
+    max-width: 125px;
+    height: 30px;
+>>>>>>> Stashed changes
+    background-color: hsl(158, 36%, 37%);
+    border-radius: 10px;
+<<<<<<< Updated upstream
+    margin: 0 0 30px 40px;
+    padding: 10px 70px 10px 70px;
+=======
+    margin: 0 0 20px 21px;
+    padding:  10px 20px 0 110px;
+>>>>>>> Stashed changes
+}
