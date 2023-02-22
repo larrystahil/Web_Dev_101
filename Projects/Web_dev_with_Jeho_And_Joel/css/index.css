@@ -39,6 +39,7 @@ img {
     border-top-left-radius: 20px;
 }
 
+<<<<<<< Updated upstream
 .cart{
     background-color: hsl(158, 36%, 37%);
     border-radius: 20px;
@@ -49,8 +50,20 @@ img {
 }
 
 button {
+=======
+
+.button {
+    //border: 2px solid red;
+    max-width: 125px;
+    height: 30px;
+>>>>>>> Stashed changes
     background-color: hsl(158, 36%, 37%);
     border-radius: 10px;
+<<<<<<< Updated upstream
     margin: 0 0 30px 40px;
     padding: 10px 70px 10px 70px;
+=======
+    margin: 0 0 20px 21px;
+    padding:  10px 20px 0 110px;
+>>>>>>> Stashed changes
 }
